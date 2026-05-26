@@ -3,4 +3,4 @@ dist/
 .env
 *.log
 .DS_Store
-_exam_media/
+
